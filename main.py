@@ -1,9 +1,9 @@
-background_1_image_filename='/home/wfy/game/1.jpg'
-background_2_image_filename='/home/wfy/game/3.png'
-background_4_image_filename='/home/wfy/game/4.jpg'
-background_5_image_filename='/home/wfy/game/5.jpg'
-background_6_image_filename='/home/wfy/game/6.jpg'
-mouse_image_filename='/home/wfy/game/egg1.png'
+background_1_image_filename='/home/wfy/Finger-guessing/1.jpg'
+background_2_image_filename='/home/wfy/Finger-guessing/3.png'
+background_4_image_filename='/home/wfy/Finger-guessing/4.jpg'
+background_5_image_filename='/home/wfy/Finger-guessing/5.jpg'
+background_6_image_filename='/home/wfy/Finger-guessing/6.jpg'
+mouse_image_filename='/home/wfy/Finger-guessing/egg1.png'
 
 import pygame
 from pygame.locals import *
